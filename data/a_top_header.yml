@@ -1,0 +1,11 @@
+style: "style5 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "The Wedding of Kemery and Adam"
+subtitle: |
+  Saturday, October 11<sup>th</sup> 2025 in Freeport, Maine, starting at 1 o'clock.
+content : |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+button:
+  label : "RSVP Online"
+  link : "#rsvp"
+image : "images/kemery_adam_header.jpg"
+

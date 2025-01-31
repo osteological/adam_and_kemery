@@ -1,0 +1,17 @@
+style: "style1 orient-right content-align-left"
+title : "Ceremony & Reception"
+content: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+  labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+  nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+  esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt 
+  in culpa qui officia deserunt mollit anim id est laborum
+
+  _A note on wardrobe_: This is an outdoor event dress code is smart casual 
+  (sweater and nice jeans are fine -- office casual); please wear closed toed comfortable shoes, 
+  no heels.
+button:
+  label: "80 Grant Rd - Freeport, ME"
+  link: "https://maps.app.goo.gl/euuqYga95ubV3t64A"
+  button_tag: 'target="_blank"'
+image: "images/tent.jpg"
