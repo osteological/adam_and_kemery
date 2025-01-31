@@ -25,7 +25,7 @@ publishDir = "docs"
 ## -----------------------------------------------
 
 [Params]
-  description = "Wedding invitation website."
+  description = "Wedding invitation website"
   # This sets the favicon to the given emoji.
   IconEmoji = "🧙‍♂️"
 
