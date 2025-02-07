@@ -57,6 +57,7 @@
 	}
 
 	p {
+		font-family: _font(family-paragraph); // Use the new font family
 		margin: 0 0 _size(element-margin) 0;
 
 		&.major {
@@ -66,6 +67,16 @@
 		&.minor {
 			font-size: 1.25rem;
 		}
+	}
+
+	table {
+		font-family: _font(family-paragraph); // Apply the new font to tables
+		width: 100%;
+		border-collapse: collapse;
+	}
+
+	ul {
+		font-family: _font(family-paragraph); // Apply the new font to tables
 	}
 
 	h1, h2, h3, h4, h5, h6 {

@@ -37,13 +37,15 @@
 	);
 
 // Font.
+// Add a new font family
 	$font: (
-		family:				("Tillana", Helvetica, serif),
-		family-fixed:		('Courier New', monospace),
-		weight:				300,
-		weight-bold:		400,
-		kerning:			-0.025em,
-		kerning-alt:		0.125em
+		family: ("Metamorphous", Helvetica, serif),
+		family-fixed: ('Courier New', monospace),
+		family-paragraph: ('Inter', Arial, sans-serif), // New font for paragraphs and tables
+		weight: 300,
+		weight-bold: 400,
+		kerning: -0.025em,
+		kerning-alt: 0.125em
 	);
 
 // Palette.
